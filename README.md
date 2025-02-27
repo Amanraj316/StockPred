@@ -84,7 +84,7 @@ Open *http://127.0.0.1:5000/* in your browser.
 ---
 
 ## *👨‍💻 Contributors*
-💡 Amanraj Mishra.Swaraj Umesh Patil 
+💡 Amanraj Mishra,Swaraj Umesh Patil 
 
 Feel free to *fork, **contribute, or **suggest improvements*! 🚀  
 
