@@ -84,13 +84,10 @@ Open *http://127.0.0.1:5000/* in your browser.
 ---
 
 ## *👨‍💻 Contributors*
-💡 *Your Name* - [GitHub Profile](https://github.com/yourusername)  
+💡 Amanraj Mishra.Swaraj Umesh Patil 
 
 Feel free to *fork, **contribute, or **suggest improvements*! 🚀  
 
-📧 *Contact:* your.email@example.com  
+📧 *Contact:amanrajm5@gmail.com
 
 ---
-
-## *📜 License*
-This project is *MIT Licensed* – free to use & modify! 😊
